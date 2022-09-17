@@ -1,0 +1,6 @@
+- responsividade
+- implementar carroucel - keenslider
+- validação no frontend - react-hook-form / schema validation
+- validação no backend - https://github.com/colinhacks/zod / schema validation
+- Autenticação com o discord , para na hora de criar o anúncio já estar preenchido
+- Adicionar as url's de conexão com o backend e outras configurações em arquivo .env
